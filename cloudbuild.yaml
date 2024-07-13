@@ -37,7 +37,7 @@ options:
   substitutionOption: ALLOW_LOOSE
   logging: CLOUD_LOGGING_ONLY
 substitutions:
-  REPO_NAME: googleTest
+  REPO_NAME: googletest
   _DEPLOY_REGION: europe-north1
   _AR_HOSTNAME: europe-north1-docker.pkg.dev
   _PLATFORM: managed
