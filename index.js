@@ -6,7 +6,7 @@ const port = process.env.PORT || 8080;
 
 // Ruta de ejemplo
 app.get('/', (req, res) => {
-  res.send('¡Pringao hola!');
+  res.send('Si estás viendo esta página, es que me debes plata... y no digo nombres..pero empieza por Cholo y termina en Chunas! ');
 });
 
 // Ruta sobre nosotros
