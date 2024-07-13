@@ -10,8 +10,8 @@ app.get('/', (req, res) => {
 });
 
 // Ruta sobre nosotros
-app.get('/about', (req, res) => {
-  res.send('Página sobre nosotros');
+app.get('/ricky', (req, res) => {
+  res.send('Págame chucha!! 80€ la hora y ya van 5 meses... ');
 });
 
 // Middleware para manejar errores
